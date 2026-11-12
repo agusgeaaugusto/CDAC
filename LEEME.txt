@@ -1,0 +1,6 @@
+CDAC - Registro profesional
+
+1. Publica index.html en GitHub Pages.
+2. Para almacenamiento compartido, configura Supabase con supabase_setup.sql y conecta las credenciales públicas del proyecto en la aplicación.
+3. Los archivos PDF y logos originales se incluyen como referencia y respaldo.
+4. No publiques datos personales reales sin controles adecuados de acceso y consentimiento.
